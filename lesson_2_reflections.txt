@@ -7,13 +7,16 @@ What value do you think it offers?
 
 	What i can see sofar is that either when I have created files as  a sideffect in the current directory or touched more files than I want to commit I can stage only those and then do the commit.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+	I can stage all files that are part of this change and then commit them together.
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When I want to try something new while e.g. others work on the master or I only work on the tryout when there is time.it is great to have acopy ... with the power of git I can even merge chenge from the master into my experimental branch if needed. Same is of course true for working in parallel on new features.
 
 How do the diagrams help you visualize the branch structure?
+
+	Its difficult to create that in my head only ...
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
