@@ -1,0 +1,22 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	git creates a hidden foler as basis for working with version control. without init we can not "version control the folder /files"
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+	What i can see sofar is that either when I have created files as  a sideffect in the current directory or touched more files than I want to commit I can stage only those and then do the commit.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+manually?
