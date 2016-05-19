@@ -7,4 +7,8 @@ Why might you want to always pull changes manually rather than having Git automa
 	I do not want to publish things that are not ready.
 	If others also work on that branch it would force me to work on merges all the time when they have pushed news.
 
-	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Cloning a repository from soewhere else, forking someone elses repository, branching my repository to work on something outside the master branch (exp, new feature)
+
+
