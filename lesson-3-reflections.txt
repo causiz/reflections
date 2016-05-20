@@ -11,4 +11,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
 	Cloning a repository from soewhere else, forking someone elses repository, branching my repository to work on something outside the master branch (exp, new feature)
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
+	How else could you diff to it? Also it allows you to track what changes you made until the last pull and if its time to push ...
